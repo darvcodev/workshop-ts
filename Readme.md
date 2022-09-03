@@ -16,4 +16,4 @@ yarn dev
 ```
 ## Imagen de referencia
 
-![img](https://raw.githubusercontent.com/DarvCode1/workshop-ts/master/src/example/ScreenShot.jpg)
+![img](https://github.com/DarvCode1/workshop-ts/blob/master/src/example/screenshot.jpg)
